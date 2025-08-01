@@ -1,4 +1,4 @@
-import{h as e}from"./chunk-KEUU4GSS.js";var l=e(()=>`
+import{h as e}from"./improved-funicular/chunk-KEUU4GSS.js";var l=e(()=>`
   /* Font Awesome icon styling - consolidated */
   .label-icon {
     display: inline-block;
